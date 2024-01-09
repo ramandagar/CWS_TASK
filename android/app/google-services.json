@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357544038214",
+    "project_id": "task-d9df1",
+    "storage_bucket": "task-d9df1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357544038214:android:47cabbec11569c14769f47",
+        "android_client_info": {
+          "package_name": "com.cws_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdTfiLjc_zN-EDrkk2Ro6isxLBfu5wAFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
